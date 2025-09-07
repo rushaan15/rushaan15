@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @rushaan15
-- 👀 I’m interested in java,c++ programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on google,microsft
-- 📫 How to reach me instagram-rushaan_15
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20Rushaan!%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
 
-<!---
-rushaan15/rushaan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Socials -->
+<p align="center">
+  <a href="https://instagram.com/rushaan_15">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+```yaml
+name: Rushaan Khan
+role: Developer & Problem Solver
+skills: [Java, C++, HTML, CSS, JavaScript, Git, GitHub]
+learning: "DSA & Web Development"
+collaboratingWith: Open Source Communities
+funFact: "I turn coffee ☕ into clean code"
